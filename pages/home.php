@@ -7,13 +7,13 @@ include 'includes/header.php';
       <section id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="../img/banners/jogosemuitomais.jpg" class="d-block w-100" alt="...">
+            <img src="../img/banners/jogosemuitomais.jpg" class="d-block w-100" alt="primeiro-slide">
           </div>
           <div class="carousel-item">
-            <img src="../img/banners/consoles-e-games.jpg" class="d-block w-100" alt="...">
+            <img src="../img/banners/consoles-e-games.jpg" class="d-block w-100" alt="segundo-slide">
           </div>
           <div class="carousel-item">
-            <img src="../img/banners/melhores-jogos.jpg" class="d-block w-100" alt="...">
+            <img src="../img/banners/melhores-jogos.jpg" class="d-block w-100" alt="terceiro-slide">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -30,7 +30,7 @@ include 'includes/header.php';
         <div class="row row-cols-1 row-cols-md-3 g-4">
           <div class="col">
             <div class="card">
-              <img src="../img/jogos/battlefield-2042.jpg" class="card-img-top" alt="...">
+              <img src="../img/jogos/battlefield-2042.jpg" class="card-img-top" alt="imagem battlefield">
               <div class="card-body">
                 <h5 class="card-title">Battlefield 2042</h5>
                 <p class="card-text">Compre nosso jogo agora</p>
@@ -41,7 +41,7 @@ include 'includes/header.php';
           </div>
           <div class="col">
             <div class="card">
-              <img src="../img/jogos/dyinglight-2.jpg" class="card-img-top" alt="...">
+              <img src="../img/jogos/dyinglight-2.jpg" class="card-img-top" alt="imagem dying light">
               <div class="card-body">
                 <h5 class="card-title">Dying Light 2</h5>
                 <p class="card-text">Compre nosso jogo agora</p>
@@ -51,7 +51,7 @@ include 'includes/header.php';
           </div>
           <div class="col">
             <div class="card">
-              <img src="../img/jogos/god-of-war.jpg" class="card-img-top" alt="...">
+              <img src="../img/jogos/god-of-war.jpg" class="card-img-top" alt="imagem god of war">
               <div class="card-body">
                 <h5 class="card-title">God of War</h5>
                 <p class="card-text">Compre nosso jogo agora</p>

@@ -4,7 +4,7 @@ require './pages/includes/head.php';
 ?>
 <section id='index-section' class='p-4 d-flex flex-column container flex-wrap justify-content-center align-items-center'>
     <div class="logo_div w-100 text-center">
-        <img src="/lojainformatica/img/logo.png" alt="" class='logo mb-4'>
+    <a href='/lojainformatica/index.php'><img src="/lojainformatica/img/logo.png" alt="logo" class='logo mb-4'></a>
 
     </div>
     <div class="row w-100 text-center">

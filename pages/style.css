@@ -60,7 +60,9 @@ footer li{
 /*index page*/
 #index-section{
 }
-
+.header-logo{
+    width:80px;
+}
 .logo{
     width:250px;
 }
