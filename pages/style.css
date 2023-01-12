@@ -1,0 +1,58 @@
+/*Gerais*/
+:root{
+    --purple: #8C52FF;
+}
+a{
+    color:var(--purple);
+    text-decoration:none;
+}
+li{
+    list-style-type:none;
+}
+img{
+    object-fit:cover;
+}
+
+/*botao roxo com texto branco*/
+.bgPurple{
+    background-color: var(--purple);
+    color:#fff;
+}
+/*botao roxo com texto branco para icones*/
+.btnL{
+    padding:0.5em 1em;
+    display:flex;
+    align-items:center;
+}
+.btnL:hover, .bgPurple:hover{
+    filter:brightness(110%);
+    background-color: var(--purple);
+    color: #fff;
+    
+}
+
+#carouselExample img{
+    height: 440px;
+    object-fit:cover;
+}
+
+#img-lancamento{
+    height:250px;
+}
+
+/*aumento a largura do modal*/
+.modal-dialog{
+    width:fit-content;
+    max-width:1200px;
+}
+
+footer li{
+    margin:5px;
+}
+
+
+/*local page*/
+#map{
+    width:80vw;
+    height:80vh;
+}
